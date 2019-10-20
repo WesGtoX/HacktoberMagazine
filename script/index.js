@@ -146,6 +146,13 @@ twitter: ""
     title: "Computer Science Engineering Undergrad",
     facebook: "narula.anushka",
     twitter: "AnushkaNarula1"
+},
+{
+    decadev: "Douglas Feltrim",
+    github_username: "dougfeltrim",
+    title: "Biomedical Informatics Undergrad",
+    facebook: "",
+    twitter: ""
 }
 
 ];
